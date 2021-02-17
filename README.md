@@ -1,7 +1,4 @@
 # BookShop
-# Задание №1: Intro
-## Требования:
-
 1. Angular-CLI
    - Установить [Angular-CLI](https://github.com/angular/angular-cli)
    - Просмотреть [CLI QuickStart](https://angular.io/docs/ts/latest/cli-quickstart.html).
